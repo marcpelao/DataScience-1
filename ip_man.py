@@ -72,4 +72,4 @@ for movie_title in movie_titles:
         print "Title: %s | Result selected: %s -> %s" %(movie_title, title, score)
         scores[title] = score
     except:
-        print "Title: %s SKIPPED" % movie_title
+        print "Title: %s SKIPPED7" % movie_title
